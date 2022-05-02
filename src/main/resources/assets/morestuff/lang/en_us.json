@@ -1,0 +1,20 @@
+{
+  "item.morestuff.cobalt_ingot": "Cobalt Ingot",
+  "item.morestuff.cobalt_nugget": "Cobalt Nugget",
+  "item.morestuff.cobalt_alloy": "Cobalt Alloy",
+
+  "block.morestuff.cobalt_block": "Cobalt Block",
+
+  "itemGroup.morestuff.cobalt": "Cobalt Stuff",
+
+  "item.morestuff.cobalt_pickaxe": "Cobalt Pickaxe",
+  "item.morestuff.cobalt_axe": "Cobalt Axe",
+  "item.morestuff.cobalt_shovel": "Cobalt Shovel",
+  "item.morestuff.cobalt_hoe": "Cobalt Hoe",
+  "item.morestuff.cobalt_sword": "Cobalt Sword",
+
+  "item.morestuff.cobalt_helmet": "Cobalt Helmet",
+  "item.morestuff.cobalt_chestplate": "Cobalt Chestplate",
+  "item.morestuff.cobalt_leggings": "Cobalt Leggings",
+  "item.morestuff.cobalt_boots": "Cobalt Boots"
+}

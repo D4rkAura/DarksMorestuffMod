@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "ricemod",
+  "id": "morestuff",
   "version": "${version}",
 
-  "name": "DarksULTIMATEricemod",
+  "name": "DarksMoreStuffMod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "DarkAura"
@@ -14,16 +14,16 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/morestuff/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.DarkAura.ricemod.DarksULTIMATEricemod"
+      "net.DarkAura.morestuff.DarksMoreStuffMod"
     ]
   },
   "mixins": [
-    "ricemod.mixins.json"
+    "morestuff.mixins.json"
   ],
 
   "depends": {

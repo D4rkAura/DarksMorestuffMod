@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "morestuff:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "morestuff:cobalt_boots"
+  }
+}

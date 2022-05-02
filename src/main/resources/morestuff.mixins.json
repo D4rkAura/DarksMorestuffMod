@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.DarkAura.ricemod.mixin",
+  "package": "net.DarkAura.morestuff.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],

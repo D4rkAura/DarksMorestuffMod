@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "gold_ingot",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "morestuff:cobalt_nugget"
+    }
+  },
+  "result": {
+    "item": "morestuff:cobalt_ingot"
+  }
+}
