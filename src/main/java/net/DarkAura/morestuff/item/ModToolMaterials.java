@@ -1,5 +1,6 @@
 package net.DarkAura.morestuff.item;
 
+import net.minecraft.block.AmethystBlock;
 import net.minecraft.item.ItemConvertible;
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
@@ -10,6 +11,7 @@ import java.util.function.Supplier;
 public enum ModToolMaterials implements ToolMaterial {
         COBALT(3, 846, 8.0F, 2F, 18, () -> {
             return Ingredient.ofItems(new ItemConvertible[]{ModItems.COBALT_INGOT});
+
         });
         private final int miningLevel;
         private final int itemDurability;

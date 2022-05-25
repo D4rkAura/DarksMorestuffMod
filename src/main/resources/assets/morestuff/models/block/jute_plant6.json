@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "morestuff:block/jute_plant6"
+  }
+}

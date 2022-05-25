@@ -2,10 +2,17 @@
   "item.morestuff.cobalt_ingot": "Cobalt Ingot",
   "item.morestuff.cobalt_nugget": "Cobalt Nugget",
   "item.morestuff.cobalt_alloy": "Cobalt Alloy",
+  "item.morestuff.dragon_scale": "Dragon Scale",
+  "item.morestuff.silver_ingot": "Silver Ingot",
 
   "block.morestuff.cobalt_block": "Cobalt Block",
 
   "itemGroup.morestuff.cobalt": "Cobalt Stuff",
+  "itemGroup.morestuff.enderexpansion": "Ender Expansion",
+  "itemGroup.morestuff.silver": "Silver Stuff",
+  "itemGroup.morestuff.foodexpansion": "Food Expansion",
+  "itemGroup.morestuff.weaponexpansion": "Weapon Expansion",
+  "itemGroup.morestuff.toolexpansion": "Tool Expansion",
 
   "item.morestuff.cobalt_pickaxe": "Cobalt Pickaxe",
   "item.morestuff.cobalt_axe": "Cobalt Axe",
@@ -13,8 +20,34 @@
   "item.morestuff.cobalt_hoe": "Cobalt Hoe",
   "item.morestuff.cobalt_sword": "Cobalt Sword",
 
+  "item.morestuff.amethyst_dagger": "Amethyst Dagger",
+
   "item.morestuff.cobalt_helmet": "Cobalt Helmet",
   "item.morestuff.cobalt_chestplate": "Cobalt Chestplate",
   "item.morestuff.cobalt_leggings": "Cobalt Leggings",
-  "item.morestuff.cobalt_boots": "Cobalt Boots"
+  "item.morestuff.cobalt_boots": "Cobalt Boots",
+
+  "item.morestuff.dragonscale_helmet": "DragonScale Helmet",
+  "item.morestuff.dragonscale_chestplate": "DragonScale Chestplate",
+  "item.morestuff.dragonscale_leggings": "DragonScale Leggings",
+  "item.morestuff.dragonscale_boots": "DragonScale Boots",
+
+  "item.morestuff.raw_bacon": "Raw Bacon",
+  "item.morestuff.cooked_bacon": "Cooked Bacon",
+  "item.morestuff.jute_seeds": "Jute Seeds",
+  "item.morestuff.jute": "Jute",
+  "item.morestuff.fabric": "Fabric",
+  "item.morestuff.empty_bag": "Empty Bag",
+
+
+  "block.morestuff.jute_plant": "Jute Plant",
+
+  "block.morestuff.black_cherry_log": "Black Cherry Log",
+  "block.morestuff.black_cherry_wood": "Black Cherry Wood",
+  "block.morestuff.stripped_black_cherry_log": "Stripped Black Cherry Log",
+  "block.morestuff.stripped_black_cherry_wood": "Stripped Black Cherry Wood",
+  "block.morestuff.black_cherry_planks": "Black Cherry Planks",
+  "block.morestuff.black_cherry_leaves": "Black Cherry Leaves",
+  "block.morestuff.black_cherry_sapling": "Black Cherry Sapling"
+
 }

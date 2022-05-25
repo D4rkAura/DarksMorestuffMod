@@ -1,0 +1,6 @@
+{
+  "parent": "morestuff:item/generated",
+  "textures": {
+    "layer0": "morestuff:block/black_cherry_sapling"
+  }
+}

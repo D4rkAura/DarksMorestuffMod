@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.DarkAura.morestuff.DarksMoreStuffMod"
+    ],
+    "client": [
+      "net.DarkAura.morestuff.DarksClientMod"
     ]
   },
   "mixins": [

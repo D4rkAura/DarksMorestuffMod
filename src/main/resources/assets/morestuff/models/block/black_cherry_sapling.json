@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "morestuff:block/black_cherry_sapling"
+  }
+}

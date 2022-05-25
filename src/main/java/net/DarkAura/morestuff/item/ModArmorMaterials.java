@@ -16,6 +16,10 @@ public enum ModArmorMaterials implements ArmorMaterial {
     COBALT("cobalt", 25, new int[]{3, 5, 7, 3}, 12,
             SoundEvents.ITEM_ARMOR_EQUIP_IRON, 1.0F, 0.0F, () -> {
         return Ingredient.ofItems(new ItemConvertible[]{ModItems.COBALT_INGOT});
+    }),
+    DRAGONSCALE("dragonscale", 35, new int[]{6, 7, 10, 5}, 12,
+    SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 1.6F, 0.5F, () -> {
+        return Ingredient.ofItems(new ItemConvertible[]{ModItems.DRAGON_SCALE});
     });
 
     private static final int[] BASE_DURABILITY = new int[]{13, 15, 16, 11};

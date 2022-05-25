@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XY ",
+    "YX ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "morestuff:jute"
+    },
+    "Y": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "morestuff:fabric"
+  }
+}
